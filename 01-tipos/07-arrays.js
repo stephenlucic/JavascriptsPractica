@@ -1,4 +1,6 @@
-//se le conoce como arrays(también lo llama lista o colección, collection) literal
+//let animales = []; 
+//se le conoce como arrays literal (también lo llama lista, colección, collection, arreglo...)
+
 let animales = ['chanchito','caballo'];
 
 console.log(animales);
